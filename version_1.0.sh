@@ -1,0 +1,1 @@
+grep 'kernel' ../* --include '*.txt'
